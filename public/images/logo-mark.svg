@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#0B1F3A"/>
+  <!-- Six-star precision technical emblem -->
+  <path d="M24 6L28.2 16.5L39.5 16.5L30.5 23.3L34 34L24 27.5L14 34L17.5 23.3L8.5 16.5L19.8 16.5L24 6Z" fill="#F28C28"/>
+  <circle cx="24" cy="22" r="4.5" fill="#0B1F3A"/>
+  <circle cx="24" cy="22" r="2" fill="#FFFFFF"/>
+</svg>
