@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, CheckCircle2, Paintbrush, Zap, Wrench, Hammer } from 'lucide-react';
+import { ArrowRight, CheckCircle2, Paintbrush, Zap, Wrench, Hammer, Snowflake } from 'lucide-react';
 import { SERVICES_LIST } from '../data/servicesData';
 import LeadContactSection from '../components/home/LeadContactSection';
 
@@ -19,6 +19,7 @@ export default function Services() {
       case 'painting': return <Paintbrush size={24} />;
       case 'electrical': return <Zap size={24} />;
       case 'plumbing': return <Wrench size={24} />;
+      case 'ac-repair': return <Snowflake size={24} />;
       case 'handyman':
       default: return <Hammer size={24} />;
     }

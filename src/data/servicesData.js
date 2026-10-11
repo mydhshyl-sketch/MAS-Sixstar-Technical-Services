@@ -221,6 +221,58 @@ export const SERVICES_LIST = [
         description: "Office furniture reconfigurations, whiteboard mounting, signage installation, and routine workplace handyman upkeep."
       }
     ]
+  },
+  {
+    id: "ac-repair",
+    slug: "ac-repair",
+    title: "AC Repair & Installation",
+    pageTitle: "AC Repair & Installation in Dubai",
+    badge: "24/7 Fast Cooling",
+    categoryTag: "AIR CONDITIONING & HVAC",
+    shortDescription: "Fast, reliable AC repair, servicing and installation for homes, villas and offices across Dubai. Available 24/7.",
+    fullDescription: "Fast, reliable AC repair, servicing and installation for homes, villas and offices across Dubai. Available 24/7.",
+    image: "/images/ac-service.jpg",
+    ctaText: "Request AC Service Quote",
+    featuredDark: false,
+    keyFeatures: [
+      "AC repair and troubleshooting",
+      "Gas refilling / leak fixing",
+      "AC installation (split, window, ducted)",
+      "AC maintenance and deep cleaning",
+      "Compressor and PCB repair",
+      "AC uninstallation and relocation",
+      "Annual maintenance contracts (AMC)"
+    ],
+    sections: [
+      {
+        title: "AC repair and troubleshooting",
+        description: "Fast diagnosis and repair for non-cooling ACs, unusual noises, water leaks, thermostat faults, and sensor issues across Dubai."
+      },
+      {
+        title: "Gas refilling / leak fixing",
+        description: "Accurate refrigerant leak testing, coil inspection, and certified gas refilling to restore optimal cooling efficiency."
+      },
+      {
+        title: "AC installation (split, window, ducted)",
+        description: "Professional installation and commissioning of split, window, and ducted AC systems for residential and commercial spaces."
+      },
+      {
+        title: "AC maintenance and deep cleaning",
+        description: "Comprehensive filter washing, indoor coil chemical wash, drain line flushing, and preventative tune-ups for fresh, clean airflow."
+      },
+      {
+        title: "Compressor and PCB repair",
+        description: "Specialized troubleshooting and component repairs for inverter compressors, capacitors, and electronic control circuit boards (PCBs)."
+      },
+      {
+        title: "AC uninstallation and relocation",
+        description: "Safe gas pump-down, careful dismounting, secure relocation, and reinstallation of air conditioning systems without refrigerant loss."
+      },
+      {
+        title: "Annual maintenance contracts (AMC)",
+        description: "Cost-effective scheduled maintenance plans providing routine inspections, priority emergency response, and year-round peace of mind."
+      }
+    ]
   }
 ];
 

@@ -12,6 +12,7 @@ import PaintingPage from './pages/PaintingPage';
 import ElectricalPage from './pages/ElectricalPage';
 import PlumbingPage from './pages/PlumbingPage';
 import HandymanPage from './pages/HandymanPage';
+import AcRepairPage from './pages/AcRepairPage';
 import WhyChooseUsPage from './pages/WhyChooseUsPage';
 import FAQPage from './pages/FAQPage';
 import ContactPage from './pages/ContactPage';
@@ -32,6 +33,7 @@ export default function App() {
         <Route path="/services/electrical" element={<ElectricalPage />} />
         <Route path="/services/plumbing" element={<PlumbingPage />} />
         <Route path="/services/handyman" element={<HandymanPage />} />
+        <Route path="/services/ac-repair" element={<AcRepairPage />} />
         <Route path="/why-choose-us" element={<WhyChooseUsPage />} />
         <Route path="/faq" element={<FAQPage />} />
         <Route path="/contact" element={<ContactPage />} />
